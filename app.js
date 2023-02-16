@@ -6,7 +6,7 @@ panels.forEach(panel => {
   removeActive() 
   panel.classList.add('active')
  })
-} )
+})
 
 /* 액티브 클래스 제거 */
 function removeActive() {
